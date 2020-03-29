@@ -27,7 +27,44 @@ https://labs.play-with-docker.com
 UI for docker
 
 
+### Docker Basic Command
 
+##### Basic
+
+| Command | Description |
+| ------- | ----------- |
+| `docker version` |gives information on docker client and server: Engine|
+| `docker -v`/ `docker --version` | gives docker version |
+| `docker info` | detailed info on docker installed on your system|
+| `docker --help` |to get info on any other command  |
+| `docker login` | to login to your computer and docker hub which can be used for pull and push|
+
+##### Images
+
+| Command | Description |
+| ------- | ----------- |
+| `docker images` | list of all images |
+| `docker pull` |pull any repositories/images  |
+| `docker rml` |  |
+
+##### Containers
+
+| Command | Description |
+| ------- | ----------- |
+| `docker ps` |to list all running containers  |
+| `docker ps -a` | to list all containers |
+| `docker run` |  |
+| `docker start` |  |
+| `docker stop` |  |
+
+
+##### System
+
+| Command | Description |
+| ------- | ----------- |
+| `docker stats` | |
+| `docker system df` | |
+| `docker system prune` |  | 
 
 
 

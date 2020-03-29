@@ -17,7 +17,8 @@ Developer = Dockerfile = describes steps to create a Docker image. Its like a re
 Docker file can be used to make <b>Docker image</b>
 So when you run docker image you get <b> Docker Container</b>
 
-# Docker Container (which will have applications with all its dependencies) are the run time instances of docker image which can be stored on online cloud repositeries called Docker Hub.
+# Docker Container 
+(which will have applications with all its dependencies) are the run time instances of docker image which can be stored on online cloud repositeries called Docker Hub.
 
 
 

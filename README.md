@@ -45,7 +45,8 @@ UI for docker
 | ------- | ----------- |
 | `docker images` | list of all images |
 | `docker pull` |pull any repositories/images  |
-| `docker rml` |  |
+| `docker rmi` |  remove one or more images|
+| `docker (com) --help` |to get help regarding any(com) command|
 
 ##### Containers
 
@@ -53,7 +54,7 @@ UI for docker
 | ------- | ----------- |
 | `docker ps` |to list all running containers  |
 | `docker ps -a` | to list all containers |
-| `docker run` |  |
+| `docker run` | run any image specified  |
 | `docker start` |  |
 | `docker stop` |  |
 
